@@ -40,4 +40,6 @@ Career Objective
 
 To start a career in IT Consulting and grow into Solution or Cloud Architecture roles, working on complex enterprise and transformation projects.
 
-Contact: joelyerai2006@gmail.com
+Contact
+
+📧 Email: joelyerai2006@gmail.com
