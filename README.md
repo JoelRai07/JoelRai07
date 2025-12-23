@@ -1,111 +1,43 @@
-👋 Hi, I’m Joel Martinez
+Joel Martinez
 
-🎓 Business Informatics (Wirtschaftsinformatik) student
-💻 Software Engineering & IT Architecture
-📍 Germany | Stuttgart
-🚀 Interested in modern full-stack systems, data-driven applications & IT consulting
+🎓 Business Informatics Student
+☁️ IT Consulting | Cloud & Solution Architecture
+📍 Stuttgart, Germany
 
-🧠 About Me
+Profile
 
-I’m a dual-study student in Business Informatics with a strong focus on software engineering, system architecture, and the intersection between IT and business.
+I am a Business Informatics student with a strong interest in IT consulting, cloud-based architectures, and digital transformation.
 
-I enjoy:
+My focus lies on:
 
-Designing clean, maintainable architectures
+Translating business requirements into technical solutions
 
-Modernizing legacy systems
+Designing scalable and maintainable system architectures
 
-Working with TypeScript, React, Node.js, and backend integrations
+Supporting modernization and integration of enterprise systems
 
-Applying theory from university to real-world projects
+Areas of Focus
 
-My goal is to build scalable, well-structured systems and continuously improve both my technical depth and problem-solving skills.
+Cloud & Solution Architecture
 
-🛠️ Tech Stack
-💻 Programming & Frameworks
+System Integration & APIs
 
-TypeScript / JavaScript
+Data-driven and event-based systems
 
-React (SPA, modern routing, form handling)
+IT transformation & modernization
 
-Node.js / Express
+Projects
 
-Basic experience with Java & Spring
+This repository contains practice-oriented projects and case studies focusing on:
 
-🧱 Architecture & Concepts
+Architecture & system design
 
-REST APIs
+Cloud-ready implementations
 
-Monorepos
+Business-driven technical solutions
 
-Event-driven systems (Kafka basics)
+Career Objective
 
-Clean Architecture & modular design
+To start a career in IT Consulting and grow into Solution or Cloud Architecture roles, working on complex enterprise and transformation projects.
 
-Accessibility (WCAG fundamentals)
-
-🗄️ Data & Tooling
-
-SQL (basic to intermediate)
-
-Git & GitHub
-
-CI/CD fundamentals
-
-Docker (basic)
-
-Linux basics
-
-📂 Projects
-
-Here you’ll find:
-
-University projects (Business Informatics & Software Engineering)
-
-Full-stack applications
-
-System modernization & refactoring work
-
-Experiments with data, automation, and architecture
-
-Each project focuses on:
-
-Clear structure
-
-Practical relevance
-
-Clean and understandable code
-
-📈 What I’m Currently Learning
-
-Advanced TypeScript patterns
-
-Backend architecture & API design
-
-Data-driven applications (Text-to-SQL, system pipelines)
-
-Software quality, testing & maintainability
-
-Bridging technical solutions with business requirements
-
-🎯 Career Interests
-
-Software Engineering
-
-IT Consulting
-
-System & Solution Architecture
-
-Data-driven systems
-
-Long-term goal: working on complex IT systems with real business impact.
-
-📫 Contact
-
-💼 LinkedIn: (add link here)
-
-📧 Email: (optional)
-
-🌐 GitHub: You’re already here 🙂
-
-⭐ If you find something interesting, feel free to explore or reach out.
+Contact: joelyerai2006@gmail.com
