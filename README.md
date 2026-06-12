@@ -1,48 +1,47 @@
-# 👋 Joel Martinez
+<!-- This file goes in a repo named exactly after your GitHub username, e.g. github.com/yourname/yourname -->
 
-**Business Informatics Student**  
-☁️ IT Consulting · Cloud & Solution Architecture  
-📍 Stuttgart, Germany  
+# Hi, I'm Joel Martinez 👋
 
----
+**Business Informatics (Wirtschaftsinformatik) graduate** from the DHBW, based in **Stuttgart, Germany** 🇩🇪 — sitting right in the middle of the Stuttgart–Tübingen "Cyber Valley" AI cluster, which is no accident.
 
-## 🧭 Profile
-
-Business Informatics student with a strong interest in **IT consulting**,  
-**cloud-based architectures**, and **digital transformation**.
-
-**Focus areas:**
-- Translating business requirements into technical solutions  
-- Designing scalable and maintainable system architectures  
-- Modernizing and integrating enterprise systems  
+I come from the intersection of business and software, and I'm now moving deeper into **AI / ML Engineering** — the part where you actually *build* and *ship* intelligent systems, not just talk about them. Currently weighing up a Master's to push the technical depth further.
 
 ---
 
-## 🧩 Areas of Focus
+### 🔭 What I'm into
 
-- ☁️ Cloud & Solution Architecture  
-- 🔗 System Integration & APIs  
-- 📊 Data-driven & event-based systems  
-- 🔄 IT transformation & modernization  
+- **AI / ML Engineering & MLOps** — turning models into things that run in production
+- **LLM applications** — prompt engineering, RAG, embeddings, agentic workflows, LLM APIs (OpenAI / Anthropic)
+- **Data engineering** — OLAP/OLTP, dimensional modeling (Star/Snowflake), Data Mesh, the whole pipeline
+- The bridge between **business logic and technical systems** — which is what a WI background is actually good for
+
+### 🛠️ Tech & Tools
+
+```text
+Languages   Python · SQL (advanced) · Java
+ML / Data   PyTorch-era fundamentals (CNNs, RNNs, Transformers, gradient descent)
+            Cloudera · Impala · Hue · Star/Snowflake schemas
+LLM stack   RAG · embeddings · vector stores · LLM APIs · prompt engineering
+Other       Git · LaTeX (IEEEtran) · Markdown
+```
+
+### 🚀 Selected projects
+
+- **Text2SQL system** — an LLM-based natural-language-to-SQL engine with a multi-layer validation pipeline (ambiguity detection, server guards, self-checking) and bounded correction loops. Built for determinism and debuggability over raw cleverness.
+- **WCAG Accessibility Testing Tool** *(Bachelor thesis)* — a custom tool that scans web apps for accessibility violations, benchmarked against a 12-, 50- and 100-error ground-truth test app.
+- **XAI Digital Twin for Predictive Maintenance** *(research)* — a systematic review, gap-analysis + aussumption framework  explainable AI in automotive predictive maintenance (RUL estimation, fault diagnosis, trustworthy ML).
+
+### 🌍 Languages
+
+🇩🇪 German · 🇬🇧 English · 🇪🇸 Spanish
+
+### 📫 Reach me
+
+- LinkedIn: [your-link]
+- Email: [your-email
 
 ---
 
-## 📁 Projects
 
-This repository contains **practice-oriented projects and case studies** with an emphasis on:
-- Architecture & system design  
-- Cloud-ready implementations  
-- Business-driven technical solutions  
 
----
-
-## 🎯 Career Objective
-
-Aspiring **IT Consultant / Solution Architect**, aiming to work on  
-**complex enterprise systems and digital transformation initiatives**.
-
----
-
-## 📫 Contact
-
-📧 **Email:** joelyerai2006@gmail.com
+> Always curious, always building. If a model can do it, I want to know how it breaks first.
